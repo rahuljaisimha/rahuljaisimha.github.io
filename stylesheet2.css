@@ -1,0 +1,52 @@
+body {
+	background-color: #b7d1c4
+}
+
+#left{
+	width: 9%;
+	float: left;
+}
+
+#center{
+	width: 9%;
+	float:left;
+}
+
+p {
+	font-family: Tahoma;
+	font-size: 1em;
+}
+
+#right{
+	width: 9%;
+	float: left;
+}
+
+#button{
+	border: 2px solid #000000;
+	float:left;
+	position: relative;
+	left: 229px;
+	bottom: -20px;
+	border-radius: 5px;
+	background-color: #cc0323;
+	height: 30px;
+	width: 200px;
+	
+}
+
+#button p{
+	position: relative;
+	bottom: 10px;
+	font-size: 0.8em;
+	color: #acd1b2;
+	text-align: center;
+}
+#rand{
+	text-align: center;
+	width:200px;
+}
+
+a{
+	text-decoration: none;
+}
